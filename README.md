@@ -1,8 +1,8 @@
-## Hi there 👋
+## Hi there! 👋
 
-**A Full-Stack Developer by day ☼ and an Open Source Contributor by night ☾**
+**Full-Stack Developer by day ☀️, Open Source Contributor by night 🌙**
 
-📊 **Time spent this week:**
+📊 **Weekly Dev Breakdown:**
 <!--START_SECTION:waka-->
 
 ```txt
@@ -13,5 +13,8 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
-📊 **GitHub Stats:**
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jrwinget&show_icons=true&theme=gotham" alt="jrwinget GitHub Stats" />
+📊 **Overall GitHub Summary:**
+
+[![](https://raw.githubusercontent.com/jrwinget/jrwinget/main/profile-summary-card-output/gotham/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/jrwinget/jrwinget/main/profile-summary-card-output/gotham/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/jrwinget/jrwinget/main/profile-summary-card-output/gotham/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/jrwinget/jrwinget/main/profile-summary-card-output/gotham/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/jrwinget/jrwinget/main/profile-summary-card-output/gotham/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
