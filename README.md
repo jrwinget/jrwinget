@@ -6,13 +6,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 October 2024 - To: 08 October 2024
+From: 02 October 2024 - To: 09 October 2024
 
-R             17 hrs 18 mins  ██████████████████████▓░░   90.50 %
-Image (svg)   26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
-JavaScript    22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
-Markdown      19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
-YAML          17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+R             18 hrs 48 mins  █████████████████████░░░░   84.21 %
+SCSS          1 hr 37 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.29 %
+Image (svg)   37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
+JavaScript    20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
+Markdown      19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
 ```
 
 <!--END_SECTION:waka-->
