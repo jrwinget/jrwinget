@@ -6,13 +6,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 October 2024 - To: 15 October 2024
+From: 09 October 2024 - To: 16 October 2024
 
-R             14 hrs 33 mins  ██████████████████████░░░   88.42 %
-SCSS          1 hr 40 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.14 %
-Image (svg)   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
-JavaScript    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+R             15 hrs 8 mins   █████████████████████████   99.51 %
+SCSS          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+JavaScript    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 S             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Markdown      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
