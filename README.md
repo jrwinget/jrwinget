@@ -6,11 +6,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 December 2024 - To: 27 December 2024
+From: 22 December 2024 - To: 29 December 2024
 
-R           1 hr 57 mins    ████████████████████████▒   97.15 %
-RMarkdown   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
-Text        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+R           2 hrs 31 mins   ████████████████████████░   95.75 %
+Other       3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
+RMarkdown   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+Text        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 ```
 
 <!--END_SECTION:waka-->
