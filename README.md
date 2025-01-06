@@ -6,10 +6,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 December 2024 - To: 04 January 2025
+From: 29 December 2024 - To: 05 January 2025
 
-R       1 hr 46 mins    ███████████████████████░░   92.31 %
-Other   8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 %
+R            2 hrs 9 mins    ████████▓░░░░░░░░░░░░░░░░   34.80 %
+YAML         1 hr 26 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.23 %
+Other        1 hr 11 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.26 %
+Markdown     1 hr 4 mins     ████▒░░░░░░░░░░░░░░░░░░░░   17.47 %
+SCSS         18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 %
 ```
 
 <!--END_SECTION:waka-->
