@@ -6,13 +6,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 January 2025 - To: 25 January 2025
+From: 19 January 2025 - To: 26 January 2025
 
-R             39 hrs 31 mins  █████████████████████▓░░░   86.85 %
-Other         4 hrs 28 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.81 %
-Image (svg)   35 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
-JavaScript    26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
-Markdown      19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+R             40 hrs 50 mins  ██████████████████████░░░   88.22 %
+Other         3 hrs 46 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 %
+Image (svg)   35 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
+JavaScript    26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
+Markdown      19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
 ```
 
 <!--END_SECTION:waka-->
