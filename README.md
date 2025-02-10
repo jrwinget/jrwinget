@@ -6,7 +6,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 February 2025 - To: 08 February 2025
+From: 02 February 2025 - To: 09 February 2025
 
 R            16 hrs 59 mins  █████████████████████▓░░░   86.81 %
 Other        1 hr 13 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.25 %
