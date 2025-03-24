@@ -6,13 +6,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 March 2025 - To: 22 March 2025
+From: 16 March 2025 - To: 23 March 2025
 
-R            19 hrs 41 mins  █████████████████████░░░░   83.86 %
-Other        2 hrs 38 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.22 %
-Git Config   16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
-Docker       14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
-JavaScript   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+R            22 hrs 17 mins  █████████████████████▒░░░   85.46 %
+Other        2 hrs 38 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.10 %
+Git Config   16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+Docker       14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+JavaScript   9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
 ```
 
 <!--END_SECTION:waka-->
