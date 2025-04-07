@@ -6,7 +6,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 March 2025 - To: 05 April 2025
+From: 30 March 2025 - To: 06 April 2025
 
 RMarkdown     18 hrs 15 mins  █████████████████▓░░░░░░░   71.28 %
 R             5 hrs 36 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.92 %
