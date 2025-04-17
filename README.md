@@ -6,13 +6,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 April 2025 - To: 15 April 2025
+From: 09 April 2025 - To: 16 April 2025
 
-R            9 hrs 1 min     ██████████████░░░░░░░░░░░   55.61 %
-RMarkdown    5 hrs 4 mins    ███████▓░░░░░░░░░░░░░░░░░   31.29 %
-Markdown     1 hr 45 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.82 %
-Other        14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
-Git Config   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+R            9 hrs 52 mins   ███████████████▓░░░░░░░░░   62.14 %
+RMarkdown    3 hrs 32 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.24 %
+Markdown     1 hr 53 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.87 %
+Other        15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
+SCSS         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
 ```
 
 <!--END_SECTION:waka-->
