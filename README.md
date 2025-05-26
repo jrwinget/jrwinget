@@ -6,13 +6,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 May 2025 - To: 24 May 2025
+From: 18 May 2025 - To: 25 May 2025
 
-YAML         5 hrs 45 mins   ██████░░░░░░░░░░░░░░░░░░░   24.02 %
-TypeScript   5 hrs 4 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.14 %
-PowerShell   3 hrs 53 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.23 %
-R            3 hrs 25 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.27 %
-Markdown     1 hr 56 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 %
+YAML         5 hrs 10 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.07 %
+TypeScript   4 hrs 32 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.01 %
+PowerShell   3 hrs 13 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.62 %
+R            3 hrs 10 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.34 %
+Docker       1 hr 15 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 %
 ```
 
 <!--END_SECTION:waka-->
