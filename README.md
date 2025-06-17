@@ -1,8 +1,25 @@
-## Hi there! 👋
+# 👋 Hi, I’m Jeremy
 
-**Full-Stack Developer by day ☀️, Open Source Contributor by night 🌙**
+AI Engineer · Computational Social Scientist · Full-Stack Developer  
+Building thoughtful tools that scale insight, cognition, and compassion.
+![Profile views](https://komarev.com/ghpvc/?username=jrwinget&label=Visitors&color=0e75b6&style=flat)
 
-📊 **Weekly Dev Breakdown:**
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)
+![Shiny](https://img.shields.io/badge/-Shiny-02569B?logo=rstudio&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+
+---
+
+## 📊 Weekly Tech Radar
+
 <!--START_SECTION:waka-->
 
 ```txt
@@ -19,6 +36,12 @@ R            49 mins         █▓░░░░░░░░░░░░░░░
 
 📊 **Overall GitHub Summary:**
 
-[![](https://raw.githubusercontent.com/jrwinget/jrwinget/main/profile-summary-card-output/gotham/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/jrwinget/jrwinget/main/profile-summary-card-output/gotham/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/jrwinget/jrwinget/main/profile-summary-card-output/gotham/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/jrwinget/jrwinget/main/profile-summary-card-output/gotham/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/jrwinget/jrwinget/main/profile-summary-card-output/gotham/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<div align="center">
+
+[![](https://raw.githubusercontent.com/jrwinget/jrwinget/main/profile-summary-card-output/gotham/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  
+[![](https://raw.githubusercontent.com/jrwinget/jrwinget/main/profile-summary-card-output/gotham/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  
+[![](https://raw.githubusercontent.com/jrwinget/jrwinget/main/profile-summary-card-output/gotham/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  
+[![](https://raw.githubusercontent.com/jrwinget/jrwinget/main/profile-summary-card-output/gotham/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  
+[![](https://raw.githubusercontent.com/jrwinget/jrwinget/main/profile-summary-card-output/gotham/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+</div>
