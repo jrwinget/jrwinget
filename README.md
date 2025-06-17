@@ -37,10 +37,17 @@ R            49 mins         █▓░░░░░░░░░░░░░░░
 
 <div align="center">
 
-[![](https://raw.githubusercontent.com/jrwinget/jrwinget/main/profile-summary-card-output/gotham/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  
-[![](https://raw.githubusercontent.com/jrwinget/jrwinget/main/profile-summary-card-output/gotham/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  
-[![](https://raw.githubusercontent.com/jrwinget/jrwinget/main/profile-summary-card-output/gotham/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  
-[![](https://raw.githubusercontent.com/jrwinget/jrwinget/main/profile-summary-card-output/gotham/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  
-[![](https://raw.githubusercontent.com/jrwinget/jrwinget/main/profile-summary-card-output/gotham/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/jrwinget/jrwinget/main/profile-summary-card-output/gotham/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/jrwinget/jrwinget/main/profile-summary-card-output/gotham/1-repos-per-language.svg" alt="Repos per Language"></td>
+    <td><img src="https://raw.githubusercontent.com/jrwinget/jrwinget/main/profile-summary-card-output/gotham/2-most-commit-language.svg" alt="Most Commit Language"></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/jrwinget/jrwinget/main/profile-summary-card-output/gotham/3-stats.svg" alt="Stats"></td>
+    <td><img src="https://raw.githubusercontent.com/jrwinget/jrwinget/main/profile-summary-card-output/gotham/4-productive-time.svg" alt="Most Productive Times"></td>
+  </tr>
+</table>
 
 </div>
