@@ -3,9 +3,9 @@
 AI Engineer · Computational Social Scientist · Full-Stack Developer  
 Building thoughtful tools that scale insight, cognition, and compassion.
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)
 ![Shiny](https://img.shields.io/badge/-Shiny-02569B?logo=rstudio&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white)
