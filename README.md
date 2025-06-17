@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Jeremy ![Profile views](https://komarev.com/ghpvc/?username=jrwinget&label=Visitors&color=0e75b6&style=flat)
+# 👋 Hi, I’m Jeremy ![Profile views](https://komarev.com/ghpvc/?username=jrwinget&label=Visitors&color=0e75b6&style=flat&abbreviated=true)
 
 AI Engineer · Computational Social Scientist · Full-Stack Developer  
 Building thoughtful tools that scale insight, cognition, and compassion.
