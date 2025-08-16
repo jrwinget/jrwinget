@@ -23,13 +23,12 @@ Building thoughtful tools that scale insight, cognition, and compassion.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 August 2025 - To: 14 August 2025
+From: 08 August 2025 - To: 15 August 2025
 
-RMarkdown   3 hrs 29 mins   ███████████████████▓░░░░░   78.34 %
-R           46 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.44 %
-CSS         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
-Other       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
-HTML        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+RMarkdown   2 hrs 35 mins   ███████████████████░░░░░░   75.56 %
+R           46 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.74 %
+Other       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
+Kusto       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
