@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Jeremy ![Profile views](https://komarev.com/ghpvc/?username=jrwinget&label=Visitors&color=0e75b6&style=flat&abbreviated=true)
 
-AI Engineer · Computational Social Scientist · Full-Stack Developer  
+Full-Stack Engineer · Computational Social Scientist · AI/ML Systems Expert
 Building thoughtful tools that scale insight, cognition, and compassion.
 
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
