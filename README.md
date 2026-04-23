@@ -23,13 +23,13 @@ Building thoughtful tools that scale insight, cognition, and compassion.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 April 2026 - To: 21 April 2026
+From: 15 April 2026 - To: 22 April 2026
 
-Markdown     5 hrs 44 mins         ██████████████████████░░░   87.75 %
-Python       19 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.94 %
-Other        7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
-CSV          7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
-Text         6 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
+Markdown     5 hrs 41 mins         █████████████████████▒░░░   85.54 %
+CSV          24 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
+YAML         12 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
+HTML         12 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
+Other        4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
 ```
 
 <!--END_SECTION:waka-->
