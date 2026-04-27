@@ -18,8 +18,6 @@ Building thoughtful tools that scale insight, cognition, and compassion.
 
 ---
 
-## 📊 Tech Radar
-
 <div align="center">
 
 [![](https://raw.githubusercontent.com/jrwinget/jrwinget/main/profile-summary-card-output/gotham/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
