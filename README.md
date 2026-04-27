@@ -18,23 +18,7 @@ Building thoughtful tools that scale insight, cognition, and compassion.
 
 ---
 
-## 📊 Weekly Tech Radar
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 19 April 2026 - To: 26 April 2026
-
-Markdown     4 hrs 47 mins         ██████████████████▒░░░░░░   73.46 %
-TypeScript   27 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.93 %
-CSV          21 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
-YAML         12 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
-HTML         12 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
-```
-
-<!--END_SECTION:waka-->
-
-📊 **Overall GitHub Summary:**
+## 📊 Tech Radar
 
 <div align="center">
 
